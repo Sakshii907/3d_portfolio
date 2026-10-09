@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# 3D Portfolio Website
 
 A  3d responsive personal portfolio website showcasing my technical skills, projects, certifications, and professional journey as a Computer Science Engineering student specializing in Artificial Intelligence.
 
